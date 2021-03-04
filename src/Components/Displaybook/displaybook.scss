@@ -1,0 +1,133 @@
+/** @format */
+
+.card-img-top {
+  // top: 166px;
+  // left: 759px;
+  width: 109px;
+  height: 135px;
+  margin-bottom: 12px;
+  margin-top: 12px;
+  // margin-left: 2em;
+  // margin-bottom: 1em;
+
+  // background-color: coral;
+}
+.image-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  // align-items: center;
+  // margin: auto;
+  background-color:#F5F5F5;
+  // padding:auto;
+  // background-color: crimson;
+}
+
+.bookCard {
+  width: 15em;
+  margin-top: 25em;
+  height: 18em;
+}
+
+.form-control1 {
+  width: 10em;
+}
+.container-fluid {
+  width: 70em;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.bookLength {
+  margin-left: 10em;
+  font-size: 1em;
+  font-weight: 400;
+  color: #0a0102;
+  margin-top: 2em;
+}
+
+.book-length {
+  margin-left: em;
+  margin-top: -2em;
+  font-size: small;
+  text-align: left;
+  font: normal normal normal 12px/16px Roboto;
+  letter-spacing: 0px;
+  color: #9d9d9d;
+  opacity: 1;
+}
+
+.title {
+  margin-left: 1em;
+  margin-bottom: -0.6em;
+}
+.card-title {
+  // margin-left: 9%;
+  // margin-top: -1em;
+  // font-size:x-small;
+  top: 327px;
+  left: 191px;
+  width: 130px;
+  height: 19px;
+
+  text-align: left;
+  font: normal normal normal 14px/19px Roboto;
+  letter-spacing: 0px;
+  color: #0a0102;
+  opacity: 1;
+  //   font-weight: bold;
+}
+.author {
+  top: 349px;
+  left: 191px;
+  // width: 63px;
+  height: 13px;
+  text-align: left;
+  font: normal normal normal 10px/13px Roboto;
+  letter-spacing: 0px;
+  color: #878787;
+  opacity: 1;
+  margin-left: 15px;
+  margin-bottom: 0.6em;
+}
+.quantity {
+  margin-left: 9%;
+  margin-top: -2px;
+  font-size: small;
+}
+.price {
+  top: 388px;
+  left: 191px;
+  width: 48px;
+  height: 16px;
+  text-align: left;
+  font: normal normal bold 12px/16px Roboto;
+  letter-spacing: 0px;
+  color: #0a0102;
+  opacity: 1;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.displayadd {
+  font-size: small;
+  color: floralwhite;
+  display: inline-flex;
+}
+.displayadd1 {
+  background-color: #a03037;
+  color: floralwhite;
+  padding: 0em 1em 0em 1em;
+}
+
+// .displayWhishlist{
+//     margin-left: 8em;
+//     margin-top: -1.6em;
+//     // margin-left: 2em;
+
+// }
+.displayWhishlist1 {
+  margin-left: 1.3em;
+  //   padding: 0em 1em 0em 1em;
+  padding: 0.625rem 0.9rem 0.5rem;
+}

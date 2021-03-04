@@ -1,0 +1,183 @@
+.cartmain {
+  width: 60em;
+  margin-left: 9em;
+}
+
+.Cardcartbody {
+  margin-top: 3em;
+}
+
+.form-control1 {
+  height: 3em;
+  width: 25em;
+}
+.CustomerForm {
+  width: 40em;
+  margin-top: 3em;
+  margin-left: 3em;
+}
+.Fullname2 {
+  width: 20em;
+  height: 4em;
+}
+.Fullname1 {
+  margin-top: 6em;
+  width: 20em;
+  height: 4em;
+}
+.titlecart {
+  margin-top: -8em;
+  margin-left: 7em;
+}
+.authorcart {
+  margin-top: -1em;
+  margin-left: 7em;
+}
+.quantitycart {
+  margin-left: 7em;
+}
+.pricecart {
+  margin-left: 7em;
+}
+
+.imagecart {
+  height: 10em;
+}
+.cardcart {
+  height: 12em;
+}
+.cartinput {
+  width: 4em;
+  position: absolute;
+  margin-left: 10em;
+  margin-top: -2em;
+}
+.plusicon {
+  margin-left: 14.5em;
+  margin-top: 2em;
+  cursor: pointer;
+}
+.minuscart {
+  margin-left: 8em;
+  margin-top: -1.6em;
+  cursor: pointer;
+}
+.removedbutton {
+  margin-left: 17em;
+  margin-top: -2.2em;
+}
+.mycartname {
+  font-weight: bold;
+}
+.blockButton {
+  margin-left: 50em;
+  color: #3371b5;
+}
+.btn-primarycart {
+  color: floralwhite;
+  background-color: #3371b5;
+}
+.form-controlcart {
+  width: 26em;
+  height: 3.5em;
+}
+.form-controlcart1 {
+  width: 54em;
+  height: 3.5em;
+}
+.customerdetails {
+  font-weight: bold;
+  margin-left: 1em;
+}
+.form-groupcart {
+  margin-top: 2em;
+}
+.custombody {
+  margin: 2em;
+}
+.blockButtonc {
+  margin-top: 3em;
+  margin-left: 50em;
+}
+.blockButtonorder {
+  margin-left: 52em;
+  margin-top: 2em;
+}
+.checkoutbody {
+  margin-left: 3em;
+}
+.placebutton {
+  cursor: pointer;
+}
+
+@media all and (min-device-width: 320px) and (max-device-width: 960px) {
+  .card-img-top1 {
+    width: 20em;
+  }
+  .cardcart {
+    height: 25em;
+  }
+  .cartmain {
+    width: 70em;
+  }
+
+  .cardcart {
+    height: 30em;
+  }
+  .card-body {
+    margin-top: 5em;
+  }
+  .mycartname {
+    font-size: 3em;
+  }
+  .titlecart {
+    margin-left: 25em;
+    margin-top: -26em;
+  }
+  .authorcart {
+    margin-left: 25em;
+  }
+  .pricecart {
+    margin-left: 25em;
+  }
+  .plusicon {
+    margin-left: 25em;
+  }
+  .cartinput {
+    margin-left: 32em;
+    width: 8em;
+    height: 5em;
+    margin-top: -5em;
+  }
+  .minuscart {
+    margin-left: 43em;
+    margin-top: -4em;
+  }
+  .removedbutton {
+    margin-left: 30em;
+    margin-top: 3em;
+    width: 10em;
+    height: 10em;
+  }
+  .btn {
+    width: 15em;
+    height: 4em;
+  }
+  .form-controlcart{
+    height: 7em;
+    width: 50em;
+    flex-direction: column;
+    display: flex;
+  }
+  .cart2{
+    margin-top: 9em;
+    margin-left: -33em;
+  }
+  .form-groupcart{
+    margin-top:9em;
+  }
+  .form-controlcart1{
+    width: 63em;
+
+  }
+}
